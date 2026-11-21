@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TaskFlow — Full-Stack Task Management System
 
 A full-stack task manager built for the Founders Key LLP assignment. It includes account registration, JWT authentication, user-specific task CRUD, status filtering, search, PostgreSQL persistence, and a responsive React interface.
@@ -184,3 +185,6 @@ Suggested recording: register a new account, log out and log in, create a task, 
 - Never commit `.env` files, real database credentials, or production JWT secrets.
 - The backend must be deployed separately from Netlify because Netlify is hosting the React static frontend in this setup.
 - This project includes source code and deployment configuration; it does not create hosting accounts, publish a live site, or push to GitLab automatically.
+=======
+# Task-Management-System-
+>>>>>>> 8757f14b92d27a3ca166701fb925af9ed9140e28
